@@ -1,0 +1,11 @@
+Komposisi Nilai
+Nilai A: 85 - 100
+Nilai A-: 80 - 85
+Nilai B+: 76 - 80
+Nilai B: 72 - 76
+Nilai B-: 68 - 72
+Nilai C+: 64 - 68
+Nilai C: 56 - 64
+Nilai D: 45 - 56
+Nilai E: 30 - 45
+Nilai F: 0 - 30

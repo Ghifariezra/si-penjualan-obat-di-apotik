@@ -1,0 +1,8 @@
+/tablet
+/dos
+/botol
+/sachet
+/botol
+/tablet
+/botol
+/kapsul
